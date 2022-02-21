@@ -1,0 +1,6 @@
+Name,Activity,Amount,Current Balance,Time,Description
+Jack,deposit,+5000,5100,2022-02-21 20:15:25,            -            
+Emily,withdraw,-50,60,2022-02-21 20:15:25,            -            
+Jack,send money,-300,4800,2022-02-21 20:15:25,Send money to Emily
+Emily,receive money,+300,360,2022-02-21 20:15:25,Receive money from Jack
+Emily,withdraw,-250.5,109.5,2022-02-21 20:15:25,            -            
